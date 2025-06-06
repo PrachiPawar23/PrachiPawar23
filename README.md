@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrachiPawar23
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning engineering in computer science and technology 
+- 🌱 I’m currently pursuing engineering in computer science and technology 
 - 💞️ I’m looking to collaborate on various projects
 
 <!---
